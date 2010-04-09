@@ -1,0 +1,12 @@
+:mod:`test` Module Documentation
+================================
+
+This page contains the test Module documentation.
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.test
+    :members:
+    :undoc-members:
+    :show-inheritance:

@@ -1,0 +1,69 @@
+:mod:`surfactant` Package Documentation
+=======================================
+
+This page contains the surfactant Package documentation.
+
+The :mod:`adsorbingSurfactantEquation` Module
+---------------------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.adsorbingSurfactantEquation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`convectionCoeff` Module
+---------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.convectionCoeff
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`lines` Module
+-----------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.lines
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlibSurfactantViewer` Module
+--------------------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.matplotlibSurfactantViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`mayaviSurfactantViewer` Module
+----------------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.mayaviSurfactantViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`surfactantBulkDiffusionEquation` Module
+-------------------------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.surfactantBulkDiffusionEquation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`surfactantEquation` Module
+------------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.surfactantEquation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`surfactantVariable` Module
+------------------------------------
+
+.. automodule:: fipy.models.levelSet.surfactant.surfactantVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

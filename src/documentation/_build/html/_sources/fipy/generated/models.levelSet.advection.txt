@@ -1,0 +1,37 @@
+:mod:`advection` Package Documentation
+======================================
+
+This page contains the advection Package documentation.
+
+The :mod:`advectionEquation` Module
+-----------------------------------
+
+.. automodule:: fipy.models.levelSet.advection.advectionEquation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`advectionTerm` Module
+-------------------------------
+
+.. automodule:: fipy.models.levelSet.advection.advectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`higherOrderAdvectionEquation` Module
+----------------------------------------------
+
+.. automodule:: fipy.models.levelSet.advection.higherOrderAdvectionEquation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`higherOrderAdvectionTerm` Module
+------------------------------------------
+
+.. automodule:: fipy.models.levelSet.advection.higherOrderAdvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

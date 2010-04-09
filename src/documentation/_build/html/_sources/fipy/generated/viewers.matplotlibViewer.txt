@@ -1,0 +1,77 @@
+:mod:`matplotlibViewer` Package Documentation
+=============================================
+
+This page contains the matplotlibViewer Package documentation.
+
+The :mod:`matplotlibViewer` Package
+-----------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlib1DViewer` Module
+------------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlib1DViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlib2DGridContourViewer` Module
+-----------------------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlib2DGridContourViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlib2DGridViewer` Module
+----------------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlib2DGridViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlib2DViewer` Module
+------------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlib2DViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlibSparseMatrixViewer` Module
+----------------------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlibSparseMatrixViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlibVectorViewer` Module
+----------------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlibVectorViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`matplotlibViewer` Module
+----------------------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.matplotlibViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.viewers.matplotlibViewer.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

@@ -1,0 +1,26 @@
+:mod:`solvers` Package Documentation
+====================================
+
+This page contains the solvers Package documentation.
+
+.. toctree::
+
+    solvers.pysparse
+    solvers.trilinos
+
+The :mod:`solver` Module
+------------------------
+
+.. automodule:: fipy.solvers.solver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.solvers.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

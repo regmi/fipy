@@ -1,0 +1,53 @@
+:mod:`pysparse` Package Documentation
+=====================================
+
+This page contains the pysparse Package documentation.
+
+The :mod:`linearCGSSolver` Module
+---------------------------------
+
+.. automodule:: fipy.solvers.pysparse.linearCGSSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearGMRESSolver` Module
+-----------------------------------
+
+.. automodule:: fipy.solvers.pysparse.linearGMRESSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearJORSolver` Module
+---------------------------------
+
+.. automodule:: fipy.solvers.pysparse.linearJORSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearLUSolver` Module
+--------------------------------
+
+.. automodule:: fipy.solvers.pysparse.linearLUSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearPCGSolver` Module
+---------------------------------
+
+.. automodule:: fipy.solvers.pysparse.linearPCGSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`pysparseSolver` Module
+--------------------------------
+
+.. automodule:: fipy.solvers.pysparse.pysparseSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

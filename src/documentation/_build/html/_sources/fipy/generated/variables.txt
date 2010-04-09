@@ -1,0 +1,269 @@
+:mod:`variables` Package Documentation
+======================================
+
+This page contains the variables Package documentation.
+
+The :mod:`addOverFacesVariable` Module
+--------------------------------------
+
+.. automodule:: fipy.variables.addOverFacesVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`arithmeticCellToFaceVariable` Module
+----------------------------------------------
+
+.. automodule:: fipy.variables.arithmeticCellToFaceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`betaNoiseVariable` Module
+-----------------------------------
+
+.. automodule:: fipy.variables.betaNoiseVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`binaryOperatorVariable` Module
+----------------------------------------
+
+.. automodule:: fipy.variables.binaryOperatorVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`cellToFaceVariable` Module
+------------------------------------
+
+.. automodule:: fipy.variables.cellToFaceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`cellVariable` Module
+------------------------------
+
+.. automodule:: fipy.variables.cellVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`cellVolumeAverageVariable` Module
+-------------------------------------------
+
+.. automodule:: fipy.variables.cellVolumeAverageVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`constant` Module
+--------------------------
+
+.. automodule:: fipy.variables.constant
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`exponentialNoiseVariable` Module
+------------------------------------------
+
+.. automodule:: fipy.variables.exponentialNoiseVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`faceGradContributionsVariable` Module
+-----------------------------------------------
+
+.. automodule:: fipy.variables.faceGradContributionsVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`faceGradVariable` Module
+----------------------------------
+
+.. automodule:: fipy.variables.faceGradVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`faceVariable` Module
+------------------------------
+
+.. automodule:: fipy.variables.faceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`fixedBCFaceGradVariable` Module
+-----------------------------------------
+
+.. automodule:: fipy.variables.fixedBCFaceGradVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gammaNoiseVariable` Module
+------------------------------------
+
+.. automodule:: fipy.variables.gammaNoiseVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gaussCellGradVariable` Module
+---------------------------------------
+
+.. automodule:: fipy.variables.gaussCellGradVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gaussianNoiseVariable` Module
+---------------------------------------
+
+.. automodule:: fipy.variables.gaussianNoiseVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`harmonicCellToFaceVariable` Module
+--------------------------------------------
+
+.. automodule:: fipy.variables.harmonicCellToFaceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`histogramVariable` Module
+-----------------------------------
+
+.. automodule:: fipy.variables.histogramVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`leastSquaresCellGradVariable` Module
+----------------------------------------------
+
+.. automodule:: fipy.variables.leastSquaresCellGradVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`meshVariable` Module
+------------------------------
+
+.. automodule:: fipy.variables.meshVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`minmodCellToFaceVariable` Module
+------------------------------------------
+
+.. automodule:: fipy.variables.minmodCellToFaceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`modCellGradVariable` Module
+-------------------------------------
+
+.. automodule:: fipy.variables.modCellGradVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`modCellToFaceVariable` Module
+---------------------------------------
+
+.. automodule:: fipy.variables.modCellToFaceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`modFaceGradVariable` Module
+-------------------------------------
+
+.. automodule:: fipy.variables.modFaceGradVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`modPhysicalField` Module
+----------------------------------
+
+.. automodule:: fipy.variables.modPhysicalField
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`modularVariable` Module
+---------------------------------
+
+.. automodule:: fipy.variables.modularVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`noiseVariable` Module
+-------------------------------
+
+.. automodule:: fipy.variables.noiseVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`operatorVariable` Module
+----------------------------------
+
+.. automodule:: fipy.variables.operatorVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`scharfetterGummelFaceVariable` Module
+-----------------------------------------------
+
+.. automodule:: fipy.variables.scharfetterGummelFaceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.variables.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`unaryOperatorVariable` Module
+---------------------------------------
+
+.. automodule:: fipy.variables.unaryOperatorVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`uniformNoiseVariable` Module
+--------------------------------------
+
+.. automodule:: fipy.variables.uniformNoiseVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`variable` Module
+--------------------------
+
+.. automodule:: fipy.variables.variable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

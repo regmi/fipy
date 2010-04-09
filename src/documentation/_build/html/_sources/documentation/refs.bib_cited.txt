@@ -1,0 +1,68 @@
+.. [BoettingerReview:2002]
+   Boettinger, W J, et al. 2002. Phase-field simulation of 
+   solidification. *Annual Review of Materials Research* 32, 163-194. 
+
+.. [CahnHilliardII]
+   Cahn, John W. 1959. Free energy of a nonuniform system. II. 
+   Thermodynamic basis. *jcp* 30, 1121-1124. 
+
+.. [CahnHilliardI]
+   Cahn, John W, and John E Hilliard. 1958. Free energy of a nonuniform 
+   system. I. Interfacial free energy. *jcp* 28, 258-267. 
+
+.. [CahnHilliardIII]
+   Cahn, John W, and John E Hilliard. 1959. Free energy of a nonuniform 
+   system. III. Nucleation in a two-component incompressible fluid. 
+   *jcp* 31, 688-699. 
+
+.. [ChenReview:2002]
+   Chen, L Q. 2002. Phase-field mdoels for microstructure evolution. 
+   *Annual Review of Materials Research* 32, 113-140. 
+
+.. [SubversionRedBean]
+   Collins-Sussman, Ben, Brian W Fitzpatrick, and C Michael Pilato. 
+   (2004) *Version Control with Subversion*. : O'Reilly Media. 
+
+.. [croftphd]
+   Croft, T N. 1998. Unstructured Mesh - Finite Volume Algorithms for 
+   Swirling, Turbulent Reacting Flows. 
+
+.. [NIST:damascene:2001]
+   Josell, D, et al. 2001. Superconformal Electrodeposition in Submicron 
+   Features. *prl* 87, 016102. 
+
+.. [Mattiussi:1997]
+   Mattiussi, C. 1997. An analysis of finite volume, finite element, and 
+   finite difference methods using some concepts from algebraic 
+   topology. *Journal of Computational Physics* 133, 289-309. 
+
+.. [McFaddenReview:2002]
+   McFadden, G B. 2002. Phase-field models of solidification. 
+   *Contemporary Mathematics* 306, 107-145. 
+
+.. [moffatInterface:2004]
+   Moffat, T P, D Wheeler, and D Josell. 2004. Superfilling and the 
+   Curvature Enhanced Accelerator Coverage Mechanism. *The 
+   Electrochemical Society, Interface* 13, 46-52. 
+
+.. [patanker]
+   Patanker, S V. (1980) *Numerical Heat Transfer and Fluid Flow*. : 
+   Taylor and Francis. 
+
+.. [DiveIntoPython]
+   Pilgrim, Mark. (2004) *Dive Into Python*. : Apress. 
+
+.. [PythonTutorial]
+   van Rossum, Guido. . Python Tutorial. 
+
+.. [versteegMalalasekera]
+   Versteeg, H K, and W Malalasekera. (1995) *An Introduction to 
+   Computational Fluid Dynamics*. : Longman Scientific and Technical. 
+
+.. [InstallingPythonModules]
+   Ward, Greg. . Installing Python Modules. 
+
+.. [WarrenPolycrystal]
+   Warren, James A, et al. 2003. Extending Phase Field Models of 
+   Solidification to Polycrystalline Materials. *Acta Materialia* 51, 
+   6035-6058. 

@@ -1,0 +1,181 @@
+:mod:`terms` Package Documentation
+==================================
+
+This page contains the terms Package documentation.
+
+The :mod:`cellTerm` Module
+--------------------------
+
+.. automodule:: fipy.terms.cellTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`centralDiffConvectionTerm` Module
+-------------------------------------------
+
+.. automodule:: fipy.terms.centralDiffConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`collectedDiffusionTerm` Module
+----------------------------------------
+
+.. automodule:: fipy.terms.collectedDiffusionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`convectionTerm` Module
+--------------------------------
+
+.. automodule:: fipy.terms.convectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`diffusionTerm` Module
+-------------------------------
+
+.. automodule:: fipy.terms.diffusionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`equation` Module
+--------------------------
+
+.. automodule:: fipy.terms.equation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`explicitDiffusionTerm` Module
+---------------------------------------
+
+.. automodule:: fipy.terms.explicitDiffusionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`explicitSourceTerm` Module
+------------------------------------
+
+.. automodule:: fipy.terms.explicitSourceTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`explicitUpwindConvectionTerm` Module
+----------------------------------------------
+
+.. automodule:: fipy.terms.explicitUpwindConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`exponentialConvectionTerm` Module
+-------------------------------------------
+
+.. automodule:: fipy.terms.exponentialConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`faceTerm` Module
+--------------------------
+
+.. automodule:: fipy.terms.faceTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`hybridConvectionTerm` Module
+--------------------------------------
+
+.. automodule:: fipy.terms.hybridConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`implicitSourceTerm` Module
+------------------------------------
+
+.. automodule:: fipy.terms.implicitSourceTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`mulTerm` Module
+-------------------------
+
+.. automodule:: fipy.terms.mulTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`nthOrderDiffusionTerm` Module
+---------------------------------------
+
+.. automodule:: fipy.terms.nthOrderDiffusionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`powerLawConvectionTerm` Module
+----------------------------------------
+
+.. automodule:: fipy.terms.powerLawConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`sourceTerm` Module
+----------------------------
+
+.. automodule:: fipy.terms.sourceTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`term` Module
+----------------------
+
+.. automodule:: fipy.terms.term
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.terms.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`transientTerm` Module
+-------------------------------
+
+.. automodule:: fipy.terms.transientTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`upwindConvectionTerm` Module
+--------------------------------------
+
+.. automodule:: fipy.terms.upwindConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`vanLeerConvectionTerm` Module
+---------------------------------------
+
+.. automodule:: fipy.terms.vanLeerConvectionTerm
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

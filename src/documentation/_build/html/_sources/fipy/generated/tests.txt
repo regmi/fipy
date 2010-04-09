@@ -1,0 +1,37 @@
+:mod:`tests` Package Documentation
+==================================
+
+This page contains the tests Package documentation.
+
+The :mod:`doctestPlus` Module
+-----------------------------
+
+.. automodule:: fipy.tests.doctestPlus
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`lateImportTest` Module
+--------------------------------
+
+.. automodule:: fipy.tests.lateImportTest
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`testBase` Module
+--------------------------
+
+.. automodule:: fipy.tests.testBase
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`testProgram` Module
+-----------------------------
+
+.. automodule:: fipy.tests.testProgram
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

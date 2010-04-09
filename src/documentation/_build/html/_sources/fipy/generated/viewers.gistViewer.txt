@@ -1,0 +1,61 @@
+:mod:`gistViewer` Package Documentation
+=======================================
+
+This page contains the gistViewer Package documentation.
+
+The :mod:`gistViewer` Package
+-----------------------------
+
+.. automodule:: fipy.viewers.gistViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`colorbar` Module
+--------------------------
+
+.. automodule:: fipy.viewers.gistViewer.colorbar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gist1DViewer` Module
+------------------------------
+
+.. automodule:: fipy.viewers.gistViewer.gist1DViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gist2DViewer` Module
+------------------------------
+
+.. automodule:: fipy.viewers.gistViewer.gist2DViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gistVectorViewer` Module
+----------------------------------
+
+.. automodule:: fipy.viewers.gistViewer.gistVectorViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gistViewer` Module
+----------------------------
+
+.. automodule:: fipy.viewers.gistViewer.gistViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.viewers.gistViewer.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

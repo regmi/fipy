@@ -1,0 +1,73 @@
+:mod:`trilinos` Package Documentation
+=====================================
+
+This page contains the trilinos Package documentation.
+
+.. toctree::
+
+    solvers.trilinos.preconditioners
+
+The :mod:`linearBicgstabSolver` Module
+--------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.linearBicgstabSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearCGSSolver` Module
+---------------------------------
+
+.. automodule:: fipy.solvers.trilinos.linearCGSSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearGMRESSolver` Module
+-----------------------------------
+
+.. automodule:: fipy.solvers.trilinos.linearGMRESSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearLUSolver` Module
+--------------------------------
+
+.. automodule:: fipy.solvers.trilinos.linearLUSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`linearPCGSolver` Module
+---------------------------------
+
+.. automodule:: fipy.solvers.trilinos.linearPCGSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`trilinosAztecOOSolver` Module
+---------------------------------------
+
+.. automodule:: fipy.solvers.trilinos.trilinosAztecOOSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`trilinosMLTest` Module
+--------------------------------
+
+.. automodule:: fipy.solvers.trilinos.trilinosMLTest
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`trilinosSolver` Module
+--------------------------------
+
+.. automodule:: fipy.solvers.trilinos.trilinosSolver
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

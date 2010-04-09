@@ -1,0 +1,37 @@
+:mod:`electroChem` Package Documentation
+========================================
+
+This page contains the electroChem Package documentation.
+
+The :mod:`gapFillMesh` Module
+-----------------------------
+
+.. automodule:: fipy.models.levelSet.electroChem.gapFillMesh
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`metalIonDiffusionEquation` Module
+-------------------------------------------
+
+.. automodule:: fipy.models.levelSet.electroChem.metalIonDiffusionEquation
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`metalIonSourceVariable` Module
+----------------------------------------
+
+.. automodule:: fipy.models.levelSet.electroChem.metalIonSourceVariable
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.models.levelSet.electroChem.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

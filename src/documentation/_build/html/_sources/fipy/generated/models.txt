@@ -1,0 +1,17 @@
+:mod:`models` Package Documentation
+===================================
+
+This page contains the models Package documentation.
+
+.. toctree::
+
+    models.levelSet
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.models.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

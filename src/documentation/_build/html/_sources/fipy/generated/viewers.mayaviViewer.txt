@@ -1,0 +1,29 @@
+:mod:`mayaviViewer` Package Documentation
+=========================================
+
+This page contains the mayaviViewer Package documentation.
+
+The :mod:`mayaviClient` Module
+------------------------------
+
+.. automodule:: fipy.viewers.mayaviViewer.mayaviClient
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`mayaviDaemon` Module
+------------------------------
+
+.. automodule:: fipy.viewers.mayaviViewer.mayaviDaemon
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.viewers.mayaviViewer.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

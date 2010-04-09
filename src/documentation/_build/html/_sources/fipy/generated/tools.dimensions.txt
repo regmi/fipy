@@ -1,0 +1,29 @@
+:mod:`dimensions` Package Documentation
+=======================================
+
+This page contains the dimensions Package documentation.
+
+The :mod:`DictWithDefault` Module
+---------------------------------
+
+.. automodule:: fipy.tools.dimensions.DictWithDefault
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`NumberDict` Module
+----------------------------
+
+.. automodule:: fipy.tools.dimensions.NumberDict
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`physicalField` Module
+-------------------------------
+
+.. automodule:: fipy.tools.dimensions.physicalField
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

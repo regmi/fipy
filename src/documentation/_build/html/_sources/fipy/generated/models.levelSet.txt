@@ -1,0 +1,20 @@
+:mod:`levelSet` Package Documentation
+=====================================
+
+This page contains the levelSet Package documentation.
+
+.. toctree::
+
+    models.levelSet.advection
+    models.levelSet.distanceFunction
+    models.levelSet.electroChem
+    models.levelSet.surfactant
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.models.levelSet.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

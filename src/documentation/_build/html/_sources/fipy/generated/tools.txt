@@ -1,0 +1,129 @@
+:mod:`tools` Package Documentation
+==================================
+
+This page contains the tools Package documentation.
+
+.. toctree::
+
+    tools.dimensions
+
+The :mod:`tools` Package
+------------------------
+
+.. automodule:: fipy.tools
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`debug` Module
+-----------------------
+
+.. automodule:: fipy.tools.debug
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`dump` Module
+----------------------
+
+.. automodule:: fipy.tools.dump
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`inline` Module
+------------------------
+
+.. automodule:: fipy.tools.inline
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`memoryLeak` Module
+----------------------------
+
+.. automodule:: fipy.tools.memoryLeak
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`memoryLogger` Module
+------------------------------
+
+.. automodule:: fipy.tools.memoryLogger
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`memoryUsage` Module
+-----------------------------
+
+.. automodule:: fipy.tools.memoryUsage
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`numerix` Module
+-------------------------
+
+.. automodule:: fipy.tools.numerix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`parser` Module
+------------------------
+
+.. automodule:: fipy.tools.parser
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`pysparseMatrix` Module
+--------------------------------
+
+.. automodule:: fipy.tools.pysparseMatrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`sparseMatrix` Module
+------------------------------
+
+.. automodule:: fipy.tools.sparseMatrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.tools.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`trilinosMatrix` Module
+--------------------------------
+
+.. automodule:: fipy.tools.trilinosMatrix
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`vector` Module
+------------------------
+
+.. automodule:: fipy.tools.vector
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`vitals` Module
+------------------------
+
+.. automodule:: fipy.tools.vitals
+    :members:
+    :undoc-members:
+    :show-inheritance:
+

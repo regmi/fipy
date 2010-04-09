@@ -1,0 +1,45 @@
+:mod:`gnuplotViewer` Package Documentation
+==========================================
+
+This page contains the gnuplotViewer Package documentation.
+
+The :mod:`gnuplotViewer` Package
+--------------------------------
+
+.. automodule:: fipy.viewers.gnuplotViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gnuplot1DViewer` Module
+---------------------------------
+
+.. automodule:: fipy.viewers.gnuplotViewer.gnuplot1DViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gnuplot2DViewer` Module
+---------------------------------
+
+.. automodule:: fipy.viewers.gnuplotViewer.gnuplot2DViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`gnuplotViewer` Module
+-------------------------------
+
+.. automodule:: fipy.viewers.gnuplotViewer.gnuplotViewer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+The :mod:`test` Module
+----------------------
+
+.. automodule:: fipy.viewers.gnuplotViewer.test
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
